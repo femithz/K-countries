@@ -1,0 +1,3589 @@
+[
+  {
+    "name": "South Georgia",
+    "code": "GS",
+    "flag": "https://flagcdn.com/gs.svg",
+    "dialCode": "+500",
+    "map": "https://goo.gl/maps/mJzdaBwKBbm2B81q9",
+    "currencies": [
+      {
+        "code": "SHP",
+        "name": "Saint Helena pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "name": "Grenada",
+    "code": "GD",
+    "flag": "https://flagcdn.com/gd.svg",
+    "dialCode": "+1473",
+    "map": "https://goo.gl/maps/rqWyfUAt4xhvk1Zy9",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "code": "CH",
+    "flag": "https://flagcdn.com/ch.svg",
+    "dialCode": "+41",
+    "map": "https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
+    "currencies": [
+      {
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "Fr."
+      }
+    ]
+  },
+  {
+    "name": "Sierra Leone",
+    "code": "SL",
+    "flag": "https://flagcdn.com/sl.svg",
+    "dialCode": "+232",
+    "map": "https://goo.gl/maps/jhacar85oq9QaeKB7",
+    "currencies": [
+      {
+        "code": "SLL",
+        "name": "Sierra Leonean leone",
+        "symbol": "Le"
+      }
+    ]
+  },
+  {
+    "name": "Hungary",
+    "code": "HU",
+    "flag": "https://flagcdn.com/hu.svg",
+    "dialCode": "+36",
+    "map": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+    "currencies": [
+      {
+        "code": "HUF",
+        "name": "Hungarian forint",
+        "symbol": "Ft"
+      }
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "code": "TW",
+    "flag": "https://flagcdn.com/tw.svg",
+    "dialCode": "+886",
+    "map": "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
+    "currencies": [
+      {
+        "code": "TWD",
+        "name": "New Taiwan dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Wallis and Futuna",
+    "code": "WF",
+    "flag": "https://flagcdn.com/wf.svg",
+    "dialCode": "+681",
+    "map": "https://goo.gl/maps/CzVqK74QYtbHv65r5",
+    "currencies": [
+      {
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "₣"
+      }
+    ]
+  },
+  {
+    "name": "Barbados",
+    "code": "BB",
+    "flag": "https://flagcdn.com/bb.svg",
+    "dialCode": "+1246",
+    "map": "https://goo.gl/maps/2m36v8STvbGAWd9c7",
+    "currencies": [
+      {
+        "code": "BBD",
+        "name": "Barbadian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Pitcairn Islands",
+    "code": "PN",
+    "flag": "https://flagcdn.com/pn.svg",
+    "dialCode": "+64",
+    "map": "https://goo.gl/maps/XGJMnMAigXjXcxSa7",
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Ivory Coast",
+    "code": "CI",
+    "flag": "https://flagcdn.com/ci.svg",
+    "dialCode": "+225",
+    "map": "https://goo.gl/maps/wKsmN7f5qAeNtGjP6",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Tunisia",
+    "code": "TN",
+    "flag": "https://flagcdn.com/tn.svg",
+    "dialCode": "+216",
+    "map": "https://goo.gl/maps/KgUmpZdUuNRaougs8",
+    "currencies": [
+      {
+        "code": "TND",
+        "name": "Tunisian dinar",
+        "symbol": "د.ت"
+      }
+    ]
+  },
+  {
+    "name": "Italy",
+    "code": "IT",
+    "flag": "https://flagcdn.com/it.svg",
+    "dialCode": "+39",
+    "map": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Benin",
+    "code": "BJ",
+    "flag": "https://flagcdn.com/bj.svg",
+    "dialCode": "+229",
+    "map": "https://goo.gl/maps/uMw1BsHEXQYgVFFu6",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "code": "ID",
+    "flag": "https://flagcdn.com/id.svg",
+    "dialCode": "+62",
+    "map": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+    "currencies": [
+      {
+        "code": "IDR",
+        "name": "Indonesian rupiah",
+        "symbol": "Rp"
+      }
+    ]
+  },
+  {
+    "name": "Cape Verde",
+    "code": "CV",
+    "flag": "https://flagcdn.com/cv.svg",
+    "dialCode": "+238",
+    "map": "https://goo.gl/maps/Kc9vy5ChjuiAgMfXA",
+    "currencies": [
+      {
+        "code": "CVE",
+        "name": "Cape Verdean escudo",
+        "symbol": "Esc"
+      }
+    ]
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "code": "KN",
+    "flag": "https://flagcdn.com/kn.svg",
+    "dialCode": "+1869",
+    "map": "https://goo.gl/maps/qiaVwcLVTXX3eoTNA",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Laos",
+    "code": "LA",
+    "flag": "https://flagcdn.com/la.svg",
+    "dialCode": "+856",
+    "map": "https://goo.gl/maps/F3asVB7sRKgSnwbE7",
+    "currencies": [
+      {
+        "code": "LAK",
+        "name": "Lao kip",
+        "symbol": "₭"
+      }
+    ]
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "code": "BQ",
+    "flag": "https://flagcdn.com/bq.svg",
+    "dialCode": "+599",
+    "map": "https://goo.gl/maps/4XVes1P6uEDTz77WA",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Uganda",
+    "code": "UG",
+    "flag": "https://flagcdn.com/ug.svg",
+    "dialCode": "+256",
+    "map": "https://goo.gl/maps/Y7812hFiGa8LD9N68",
+    "currencies": [
+      {
+        "code": "UGX",
+        "name": "Ugandan shilling",
+        "symbol": "Sh"
+      }
+    ]
+  },
+  {
+    "name": "Andorra",
+    "code": "AD",
+    "flag": "https://flagcdn.com/ad.svg",
+    "dialCode": "+376",
+    "map": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Burundi",
+    "code": "BI",
+    "flag": "https://flagcdn.com/bi.svg",
+    "dialCode": "+257",
+    "map": "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
+    "currencies": [
+      {
+        "code": "BIF",
+        "name": "Burundian franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "South Africa",
+    "code": "ZA",
+    "flag": "https://flagcdn.com/za.svg",
+    "dialCode": "+27",
+    "map": "https://goo.gl/maps/CLCZ1R8Uz1KpYhRv6",
+    "currencies": [
+      {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ]
+  },
+  {
+    "name": "France",
+    "code": "FR",
+    "flag": "https://flagcdn.com/fr.svg",
+    "dialCode": "+33",
+    "map": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Libya",
+    "code": "LY",
+    "flag": "https://flagcdn.com/ly.svg",
+    "dialCode": "+218",
+    "map": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
+    "currencies": [
+      {
+        "code": "LYD",
+        "name": "Libyan dinar",
+        "symbol": "ل.د"
+      }
+    ]
+  },
+  {
+    "name": "Mexico",
+    "code": "MX",
+    "flag": "https://flagcdn.com/mx.svg",
+    "dialCode": "+52",
+    "map": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
+    "currencies": [
+      {
+        "code": "MXN",
+        "name": "Mexican peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Gabon",
+    "code": "GA",
+    "flag": "https://flagcdn.com/ga.svg",
+    "dialCode": "+241",
+    "map": "https://goo.gl/maps/vyRSkqw1H1fnq4ry6",
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "code": "MP",
+    "flag": "https://flagcdn.com/mp.svg",
+    "dialCode": "+1670",
+    "map": "https://goo.gl/maps/cpZ67knoRAcfu1417",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "North Macedonia",
+    "code": "MK",
+    "flag": "https://flagcdn.com/mk.svg",
+    "dialCode": "+389",
+    "map": "https://goo.gl/maps/55Q8MEnF6ACdu3q79",
+    "currencies": [
+      {
+        "code": "MKD",
+        "name": "denar",
+        "symbol": "den"
+      }
+    ]
+  },
+  {
+    "name": "China",
+    "code": "CN",
+    "flag": "https://flagcdn.com/cn.svg",
+    "dialCode": "+86",
+    "map": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
+    "currencies": [
+      {
+        "code": "CNY",
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      }
+    ]
+  },
+  {
+    "name": "Yemen",
+    "code": "YE",
+    "flag": "https://flagcdn.com/ye.svg",
+    "dialCode": "+967",
+    "map": "https://goo.gl/maps/WCmE76HKcLideQQw7",
+    "currencies": [
+      {
+        "code": "YER",
+        "name": "Yemeni rial",
+        "symbol": "﷼"
+      }
+    ]
+  },
+  {
+    "name": "Saint Barthélemy",
+    "code": "BL",
+    "flag": "https://flagcdn.com/bl.svg",
+    "dialCode": "+590",
+    "map": "https://goo.gl/maps/Mc7GqH466S7AAk297",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Guernsey",
+    "code": "GG",
+    "flag": "https://flagcdn.com/gg.svg",
+    "dialCode": "+44",
+    "map": "https://goo.gl/maps/6kXnQU5QvEZMD9VB7",
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      {
+        "code": "GGP",
+        "name": "Guernsey pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "name": "Solomon Islands",
+    "code": "SB",
+    "flag": "https://flagcdn.com/sb.svg",
+    "dialCode": "+677",
+    "map": "https://goo.gl/maps/JbPkx86Ywjv8C1n8A",
+    "currencies": [
+      {
+        "code": "SBD",
+        "name": "Solomon Islands dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "code": "SJ",
+    "flag": "https://flagcdn.com/sj.svg",
+    "dialCode": "+4779",
+    "map": "https://goo.gl/maps/L2wyyn3cQ16PzQ5J8",
+    "currencies": [
+      {
+        "code": "NOK",
+        "name": "krone",
+        "symbol": "kr"
+      }
+    ]
+  },
+  {
+    "name": "Faroe Islands",
+    "code": "FO",
+    "flag": "https://flagcdn.com/fo.svg",
+    "dialCode": "+298",
+    "map": "https://goo.gl/maps/6sTru4SmHdEVcNkM6",
+    "currencies": [
+      {
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      },
+      {
+        "code": "FOK",
+        "name": "Faroese króna",
+        "symbol": "kr"
+      }
+    ]
+  },
+  {
+    "name": "Uzbekistan",
+    "code": "UZ",
+    "flag": "https://flagcdn.com/uz.svg",
+    "dialCode": "+998",
+    "map": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
+    "currencies": [
+      {
+        "code": "UZS",
+        "name": "Uzbekistani soʻm",
+        "symbol": "so'm"
+      }
+    ]
+  },
+  {
+    "name": "Egypt",
+    "code": "EG",
+    "flag": "https://flagcdn.com/eg.svg",
+    "dialCode": "+20",
+    "map": "https://goo.gl/maps/uoDRhXbsqjG6L7VG7",
+    "currencies": [
+      {
+        "code": "EGP",
+        "name": "Egyptian pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "name": "Senegal",
+    "code": "SN",
+    "flag": "https://flagcdn.com/sn.svg",
+    "dialCode": "+221",
+    "map": "https://goo.gl/maps/o5f1uD5nyihCL3HCA",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "code": "LK",
+    "flag": "https://flagcdn.com/lk.svg",
+    "dialCode": "+94",
+    "map": "https://goo.gl/maps/VkPHoeFSfgzRQCDv8",
+    "currencies": [
+      {
+        "code": "LKR",
+        "name": "Sri Lankan rupee",
+        "symbol": "Rs  රු"
+      }
+    ]
+  },
+  {
+    "name": "Palestine",
+    "code": "PS",
+    "flag": "https://flagcdn.com/ps.svg",
+    "dialCode": "+970",
+    "map": "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
+    "currencies": [
+      {
+        "code": "EGP",
+        "name": "Egyptian pound",
+        "symbol": "E£"
+      },
+      {
+        "code": "ILS",
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      },
+      {
+        "code": "JOD",
+        "name": "Jordanian dinar",
+        "symbol": "JD"
+      }
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "code": "BD",
+    "flag": "https://flagcdn.com/bd.svg",
+    "dialCode": "+880",
+    "map": "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
+    "currencies": [
+      {
+        "code": "BDT",
+        "name": "Bangladeshi taka",
+        "symbol": "৳"
+      }
+    ]
+  },
+  {
+    "name": "Peru",
+    "code": "PE",
+    "flag": "https://flagcdn.com/pe.svg",
+    "dialCode": "+51",
+    "map": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
+    "currencies": [
+      {
+        "code": "PEN",
+        "name": "Peruvian sol",
+        "symbol": "S/ "
+      }
+    ]
+  },
+  {
+    "name": "Singapore",
+    "code": "SG",
+    "flag": "https://flagcdn.com/sg.svg",
+    "dialCode": "+65",
+    "map": "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
+    "currencies": [
+      {
+        "code": "SGD",
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Turkey",
+    "code": "TR",
+    "flag": "https://flagcdn.com/tr.svg",
+    "dialCode": "+90",
+    "map": "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
+    "currencies": [
+      {
+        "code": "TRY",
+        "name": "Turkish lira",
+        "symbol": "₺"
+      }
+    ]
+  },
+  {
+    "name": "Afghanistan",
+    "code": "AF",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+    "dialCode": "+93",
+    "map": "https://goo.gl/maps/BXBGw7yUUFknCfva9",
+    "currencies": [
+      {
+        "code": "AFN",
+        "name": "Afghan afghani",
+        "symbol": "؋"
+      }
+    ]
+  },
+  {
+    "name": "Aruba",
+    "code": "AW",
+    "flag": "https://flagcdn.com/aw.svg",
+    "dialCode": "+297",
+    "map": "https://goo.gl/maps/8hopbQqifHAgyZyg8",
+    "currencies": [
+      {
+        "code": "AWG",
+        "name": "Aruban florin",
+        "symbol": "ƒ"
+      }
+    ]
+  },
+  {
+    "name": "Cook Islands",
+    "code": "CK",
+    "flag": "https://flagcdn.com/ck.svg",
+    "dialCode": "+682",
+    "map": "https://goo.gl/maps/nrGZrvWRGB4WHgDC9",
+    "currencies": [
+      {
+        "code": "CKD",
+        "name": "Cook Islands dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "code": "GB",
+    "flag": "https://flagcdn.com/gb.svg",
+    "dialCode": "+44",
+    "map": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "name": "Zambia",
+    "code": "ZM",
+    "flag": "https://flagcdn.com/zm.svg",
+    "dialCode": "+260",
+    "map": "https://goo.gl/maps/mweBcqvW8TppZW6q9",
+    "currencies": [
+      {
+        "code": "ZMW",
+        "name": "Zambian kwacha",
+        "symbol": "ZK"
+      }
+    ]
+  },
+  {
+    "name": "Finland",
+    "code": "FI",
+    "flag": "https://flagcdn.com/fi.svg",
+    "dialCode": "+358",
+    "map": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Niger",
+    "code": "NE",
+    "flag": "https://flagcdn.com/ne.svg",
+    "dialCode": "+227",
+    "map": "https://goo.gl/maps/VKNU2TLsZcgxM49c8",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Christmas Island",
+    "code": "CX",
+    "flag": "https://flagcdn.com/cx.svg",
+    "dialCode": "+61",
+    "map": "https://goo.gl/maps/ZC17hHsQZpShN5wk9",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Tokelau",
+    "code": "TK",
+    "flag": "https://flagcdn.com/tk.svg",
+    "dialCode": "+690",
+    "map": "https://goo.gl/maps/Ap5qN8qien6pT9UN6",
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Guinea-Bissau",
+    "code": "GW",
+    "flag": "https://flagcdn.com/gw.svg",
+    "dialCode": "+245",
+    "map": "https://goo.gl/maps/5Wyaz17miUc1zLc67",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Azerbaijan",
+    "code": "AZ",
+    "flag": "https://flagcdn.com/az.svg",
+    "dialCode": "+994",
+    "map": "https://goo.gl/maps/az3Zz7ar2aoB9AUc6",
+    "currencies": [
+      {
+        "code": "AZN",
+        "name": "Azerbaijani manat",
+        "symbol": "₼"
+      }
+    ]
+  },
+  {
+    "name": "Réunion",
+    "code": "RE",
+    "flag": "https://flagcdn.com/re.svg",
+    "dialCode": "+262",
+    "map": "https://goo.gl/maps/wWpBrXsp8UHVbah29",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Djibouti",
+    "code": "DJ",
+    "flag": "https://flagcdn.com/dj.svg",
+    "dialCode": "+253",
+    "map": "https://goo.gl/maps/V1HWfzN3bS1kwf4C6",
+    "currencies": [
+      {
+        "code": "DJF",
+        "name": "Djiboutian franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "North Korea",
+    "code": "KP",
+    "flag": "https://flagcdn.com/kp.svg",
+    "dialCode": "+850",
+    "map": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
+    "currencies": [
+      {
+        "code": "KPW",
+        "name": "North Korean won",
+        "symbol": "₩"
+      }
+    ]
+  },
+  {
+    "name": "Mauritius",
+    "code": "MU",
+    "flag": "https://flagcdn.com/mu.svg",
+    "dialCode": "+230",
+    "map": "https://goo.gl/maps/PpKtZ4W3tir5iGrz7",
+    "currencies": [
+      {
+        "code": "MUR",
+        "name": "Mauritian rupee",
+        "symbol": "₨"
+      }
+    ]
+  },
+  {
+    "name": "Montserrat",
+    "code": "MS",
+    "flag": "https://flagcdn.com/ms.svg",
+    "dialCode": "+1664",
+    "map": "https://goo.gl/maps/CSbe7UmxPmiwQB7GA",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "United States Virgin Islands",
+    "code": "VI",
+    "flag": "https://flagcdn.com/vi.svg",
+    "dialCode": "+1340",
+    "map": "https://goo.gl/maps/mBfreywj8dor6q4m9",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Colombia",
+    "code": "CO",
+    "flag": "https://flagcdn.com/co.svg",
+    "dialCode": "+57",
+    "map": "https://goo.gl/maps/zix9qNFX69E9yZ2M6",
+    "currencies": [
+      {
+        "code": "COP",
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Greece",
+    "code": "GR",
+    "flag": "https://flagcdn.com/gr.svg",
+    "dialCode": "+30",
+    "map": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Croatia",
+    "code": "HR",
+    "flag": "https://flagcdn.com/hr.svg",
+    "dialCode": "+385",
+    "map": "https://goo.gl/maps/qSG6xTKUmrYpwmGQ6",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Morocco",
+    "code": "MA",
+    "flag": "https://flagcdn.com/ma.svg",
+    "dialCode": "+212",
+    "map": "https://goo.gl/maps/6oMv3dyBZg3iaXQ5A",
+    "currencies": [
+      {
+        "code": "MAD",
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      }
+    ]
+  },
+  {
+    "name": "Algeria",
+    "code": "DZ",
+    "flag": "https://flagcdn.com/dz.svg",
+    "dialCode": "+213",
+    "map": "https://goo.gl/maps/RsAyAfyaiNVb8DpW8",
+    "currencies": [
+      {
+        "code": "DZD",
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
+    ]
+  },
+  {
+    "name": "Antarctica",
+    "code": "AQ",
+    "flag": "https://flagcdn.com/aq.svg",
+    "dialCode": null,
+    "map": "https://goo.gl/maps/kyBuJriu4itiXank7",
+    "currencies": []
+  },
+  {
+    "name": "Netherlands",
+    "code": "NL",
+    "flag": "https://flagcdn.com/nl.svg",
+    "dialCode": "+31",
+    "map": "https://goo.gl/maps/Hv6zQswGhFxoVVBm6",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Sudan",
+    "code": "SD",
+    "flag": "https://flagcdn.com/sd.svg",
+    "dialCode": "+249",
+    "map": "https://goo.gl/maps/bNW7YUJCaqR8zcXn7",
+    "currencies": [
+      {
+        "code": "SDG",
+        "name": "Sudanese pound",
+        "symbol": "ج.س"
+      }
+    ]
+  },
+  {
+    "name": "Fiji",
+    "code": "FJ",
+    "flag": "https://flagcdn.com/fj.svg",
+    "dialCode": "+679",
+    "map": "https://goo.gl/maps/r9fhDqoLZdg1zmE99",
+    "currencies": [
+      {
+        "code": "FJD",
+        "name": "Fijian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Liechtenstein",
+    "code": "LI",
+    "flag": "https://flagcdn.com/li.svg",
+    "dialCode": "+423",
+    "map": "https://goo.gl/maps/KNuHeiJzAPodwM7y6",
+    "currencies": [
+      {
+        "code": "CHF",
+        "name": "Swiss franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Nepal",
+    "code": "NP",
+    "flag": "https://flagcdn.com/np.svg",
+    "dialCode": "+977",
+    "map": "https://goo.gl/maps/UMj2zpbQp7B5c3yT7",
+    "currencies": [
+      {
+        "code": "NPR",
+        "name": "Nepalese rupee",
+        "symbol": "₨"
+      }
+    ]
+  },
+  {
+    "name": "Puerto Rico",
+    "code": "PR",
+    "flag": "https://flagcdn.com/pr.svg",
+    "dialCode": "+1787",
+    "map": "https://goo.gl/maps/sygfDbtwn389wu8x5",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Georgia",
+    "code": "GE",
+    "flag": "https://flagcdn.com/ge.svg",
+    "dialCode": "+995",
+    "map": "https://goo.gl/maps/bvCaGBePR1ZEDK5cA",
+    "currencies": [
+      {
+        "code": "GEL",
+        "name": "lari",
+        "symbol": "₾"
+      }
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "code": "PK",
+    "flag": "https://flagcdn.com/pk.svg",
+    "dialCode": "+92",
+    "map": "https://goo.gl/maps/5LYujdfR5yLUXoERA",
+    "currencies": [
+      {
+        "code": "PKR",
+        "name": "Pakistani rupee",
+        "symbol": "₨"
+      }
+    ]
+  },
+  {
+    "name": "Monaco",
+    "code": "MC",
+    "flag": "https://flagcdn.com/mc.svg",
+    "dialCode": "+377",
+    "map": "https://goo.gl/maps/DGpndDot28bYdXYn7",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Botswana",
+    "code": "BW",
+    "flag": "https://flagcdn.com/bw.svg",
+    "dialCode": "+267",
+    "map": "https://goo.gl/maps/E364KeLy6N4JwxwQ8",
+    "currencies": [
+      {
+        "code": "BWP",
+        "name": "Botswana pula",
+        "symbol": "P"
+      }
+    ]
+  },
+  {
+    "name": "Lebanon",
+    "code": "LB",
+    "flag": "https://flagcdn.com/lb.svg",
+    "dialCode": "+961",
+    "map": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
+    "currencies": [
+      {
+        "code": "LBP",
+        "name": "Lebanese pound",
+        "symbol": "ل.ل"
+      }
+    ]
+  },
+  {
+    "name": "Papua New Guinea",
+    "code": "PG",
+    "flag": "https://flagcdn.com/pg.svg",
+    "dialCode": "+675",
+    "map": "https://goo.gl/maps/ChGmzZBjZ3vnBwR2A",
+    "currencies": [
+      {
+        "code": "PGK",
+        "name": "Papua New Guinean kina",
+        "symbol": "K"
+      }
+    ]
+  },
+  {
+    "name": "Mayotte",
+    "code": "YT",
+    "flag": "https://flagcdn.com/yt.svg",
+    "dialCode": "+262",
+    "map": "https://goo.gl/maps/1e7MXmfBwQv3TQGF7",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Dominican Republic",
+    "code": "DO",
+    "flag": "https://flagcdn.com/do.svg",
+    "dialCode": "+1809",
+    "map": "https://goo.gl/maps/soxooTHxEeiAbn3UA",
+    "currencies": [
+      {
+        "code": "DOP",
+        "name": "Dominican peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Norfolk Island",
+    "code": "NF",
+    "flag": "https://flagcdn.com/nf.svg",
+    "dialCode": "+672",
+    "map": "https://goo.gl/maps/pbvtm6XYd1iZbjky5",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Bouvet Island",
+    "code": "BV",
+    "flag": "https://flagcdn.com/bv.svg",
+    "dialCode": "+47",
+    "map": "https://goo.gl/maps/7WRQAEKZb4uK36yi9",
+    "currencies": []
+  },
+  {
+    "name": "Qatar",
+    "code": "QA",
+    "flag": "https://flagcdn.com/qa.svg",
+    "dialCode": "+974",
+    "map": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
+    "currencies": [
+      {
+        "code": "QAR",
+        "name": "Qatari riyal",
+        "symbol": "ر.ق"
+      }
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "code": "MG",
+    "flag": "https://flagcdn.com/mg.svg",
+    "dialCode": "+261",
+    "map": "https://goo.gl/maps/AHQh2ABBaFW6Ngj26",
+    "currencies": [
+      {
+        "code": "MGA",
+        "name": "Malagasy ariary",
+        "symbol": "Ar"
+      }
+    ]
+  },
+  {
+    "name": "India",
+    "code": "IN",
+    "flag": "https://flagcdn.com/in.svg",
+    "dialCode": "+91",
+    "map": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+    "currencies": [
+      {
+        "code": "INR",
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    ]
+  },
+  {
+    "name": "Syria",
+    "code": "SY",
+    "flag": "https://flagcdn.com/sy.svg",
+    "dialCode": "+963",
+    "map": "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
+    "currencies": [
+      {
+        "code": "SYP",
+        "name": "Syrian pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "code": "ME",
+    "flag": "https://flagcdn.com/me.svg",
+    "dialCode": "+382",
+    "map": "https://goo.gl/maps/4THX1fM7WqANuPbB8",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Eswatini",
+    "code": "SZ",
+    "flag": "https://flagcdn.com/sz.svg",
+    "dialCode": "+268",
+    "map": "https://goo.gl/maps/cUY79eqQihFSE8hV6",
+    "currencies": [
+      {
+        "code": "SZL",
+        "name": "Swazi lilangeni",
+        "symbol": "L"
+      },
+      {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "code": "PY",
+    "flag": "https://flagcdn.com/py.svg",
+    "dialCode": "+595",
+    "map": "https://goo.gl/maps/JtnqG73WJn1Gx6mz6",
+    "currencies": [
+      {
+        "code": "PYG",
+        "name": "Paraguayan guaraní",
+        "symbol": "₲"
+      }
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "code": "SV",
+    "flag": "https://flagcdn.com/sv.svg",
+    "dialCode": "+503",
+    "map": "https://goo.gl/maps/cZnCEi5sEMQtKKcB7",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "code": "UA",
+    "flag": "https://flagcdn.com/ua.svg",
+    "dialCode": "+380",
+    "map": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
+    "currencies": [
+      {
+        "code": "UAH",
+        "name": "Ukrainian hryvnia",
+        "symbol": "₴"
+      }
+    ]
+  },
+  {
+    "name": "Isle of Man",
+    "code": "IM",
+    "flag": "https://flagcdn.com/im.svg",
+    "dialCode": "+44",
+    "map": "https://goo.gl/maps/4DqVHDgVaFgnh8ZV8",
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      {
+        "code": "IMP",
+        "name": "Manx pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "name": "Namibia",
+    "code": "NA",
+    "flag": "https://flagcdn.com/na.svg",
+    "dialCode": "+264",
+    "map": "https://goo.gl/maps/oR1i8BFEYX3EY83WA",
+    "currencies": [
+      {
+        "code": "NAD",
+        "name": "Namibian dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ]
+  },
+  {
+    "name": "United Arab Emirates",
+    "code": "AE",
+    "flag": "https://flagcdn.com/ae.svg",
+    "dialCode": "+971",
+    "map": "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
+    "currencies": [
+      {
+        "code": "AED",
+        "name": "United Arab Emirates dirham",
+        "symbol": "د.إ"
+      }
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "code": "BG",
+    "flag": "https://flagcdn.com/bg.svg",
+    "dialCode": "+359",
+    "map": "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
+    "currencies": [
+      {
+        "code": "BGN",
+        "name": "Bulgarian lev",
+        "symbol": "лв"
+      }
+    ]
+  },
+  {
+    "name": "Greenland",
+    "code": "GL",
+    "flag": "https://flagcdn.com/gl.svg",
+    "dialCode": "+299",
+    "map": "https://goo.gl/maps/j3289UPEQXt1ceSy8",
+    "currencies": [
+      {
+        "code": "DKK",
+        "name": "krone",
+        "symbol": "kr."
+      }
+    ]
+  },
+  {
+    "name": "Germany",
+    "code": "DE",
+    "flag": "https://flagcdn.com/de.svg",
+    "dialCode": "+49",
+    "map": "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Cambodia",
+    "code": "KH",
+    "flag": "https://flagcdn.com/kh.svg",
+    "dialCode": "+855",
+    "map": "https://goo.gl/maps/nztQtFSrUXZymJaW8",
+    "currencies": [
+      {
+        "code": "KHR",
+        "name": "Cambodian riel",
+        "symbol": "៛"
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Iraq",
+    "code": "IQ",
+    "flag": "https://flagcdn.com/iq.svg",
+    "dialCode": "+964",
+    "map": "https://goo.gl/maps/iL8Bmy1sUCW9fUk18",
+    "currencies": [
+      {
+        "code": "IQD",
+        "name": "Iraqi dinar",
+        "symbol": "ع.د"
+      }
+    ]
+  },
+  {
+    "name": "French Southern and Antarctic Lands",
+    "code": "TF",
+    "flag": "https://flagcdn.com/tf.svg",
+    "dialCode": "+262",
+    "map": "https://goo.gl/maps/6ua6CX1m4w1xF2Em7",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Sweden",
+    "code": "SE",
+    "flag": "https://flagcdn.com/se.svg",
+    "dialCode": "+46",
+    "map": "https://goo.gl/maps/iqygE491ADVgnBW39",
+    "currencies": [
+      {
+        "code": "SEK",
+        "name": "Swedish krona",
+        "symbol": "kr"
+      }
+    ]
+  },
+  {
+    "name": "Cuba",
+    "code": "CU",
+    "flag": "https://flagcdn.com/cu.svg",
+    "dialCode": "+53",
+    "map": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
+    "currencies": [
+      {
+        "code": "CUC",
+        "name": "Cuban convertible peso",
+        "symbol": "$"
+      },
+      {
+        "code": "CUP",
+        "name": "Cuban peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Kyrgyzstan",
+    "code": "KG",
+    "flag": "https://flagcdn.com/kg.svg",
+    "dialCode": "+996",
+    "map": "https://goo.gl/maps/SKG8BSMMQVvxkRkB7",
+    "currencies": [
+      {
+        "code": "KGS",
+        "name": "Kyrgyzstani som",
+        "symbol": "с"
+      }
+    ]
+  },
+  {
+    "name": "Russia",
+    "code": "RU",
+    "flag": "https://flagcdn.com/ru.svg",
+    "dialCode": "+73",
+    "map": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
+    "currencies": [
+      {
+        "code": "RUB",
+        "name": "Russian ruble",
+        "symbol": "₽"
+      }
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "code": "MY",
+    "flag": "https://flagcdn.com/my.svg",
+    "dialCode": "+60",
+    "map": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
+    "currencies": [
+      {
+        "code": "MYR",
+        "name": "Malaysian ringgit",
+        "symbol": "RM"
+      }
+    ]
+  },
+  {
+    "name": "São Tomé and Príncipe",
+    "code": "ST",
+    "flag": "https://flagcdn.com/st.svg",
+    "dialCode": "+239",
+    "map": "https://goo.gl/maps/9EUppm13RtPX9oF46",
+    "currencies": [
+      {
+        "code": "STN",
+        "name": "São Tomé and Príncipe dobra",
+        "symbol": "Db"
+      }
+    ]
+  },
+  {
+    "name": "Cyprus",
+    "code": "CY",
+    "flag": "https://flagcdn.com/cy.svg",
+    "dialCode": "+357",
+    "map": "https://goo.gl/maps/77hPBRdLid8yD5Bm7",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Canada",
+    "code": "CA",
+    "flag": "https://flagcdn.com/ca.svg",
+    "dialCode": "+1",
+    "map": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
+    "currencies": [
+      {
+        "code": "CAD",
+        "name": "Canadian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Malawi",
+    "code": "MW",
+    "flag": "https://flagcdn.com/mw.svg",
+    "dialCode": "+265",
+    "map": "https://goo.gl/maps/mc6z83pW9m98X2Ef6",
+    "currencies": [
+      {
+        "code": "MWK",
+        "name": "Malawian kwacha",
+        "symbol": "MK"
+      }
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "SA",
+    "flag": "https://flagcdn.com/sa.svg",
+    "dialCode": "+966",
+    "map": "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
+    "currencies": [
+      {
+        "code": "SAR",
+        "name": "Saudi riyal",
+        "symbol": "ر.س"
+      }
+    ]
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "BA",
+    "flag": "https://flagcdn.com/ba.svg",
+    "dialCode": "+387",
+    "map": "https://www.google.com/maps/place/Bosnia+and+Herzegovina",
+    "currencies": [
+      {
+        "code": "BAM",
+        "name": "Bosnia and Herzegovina convertible mark",
+        "symbol": "KM"
+      }
+    ]
+  },
+  {
+    "name": "Ethiopia",
+    "code": "ET",
+    "flag": "https://flagcdn.com/et.svg",
+    "dialCode": "+251",
+    "map": "https://goo.gl/maps/2Q4hQWCbhuZLj3fG6",
+    "currencies": [
+      {
+        "code": "ETB",
+        "name": "Ethiopian birr",
+        "symbol": "Br"
+      }
+    ]
+  },
+  {
+    "name": "Spain",
+    "code": "ES",
+    "flag": "https://flagcdn.com/es.svg",
+    "dialCode": "+34",
+    "map": "https://goo.gl/maps/138JaXW8EZzRVitY9",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "code": "SI",
+    "flag": "https://flagcdn.com/si.svg",
+    "dialCode": "+386",
+    "map": "https://goo.gl/maps/7zgFmswcCJh5L5D49",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Oman",
+    "code": "OM",
+    "flag": "https://flagcdn.com/om.svg",
+    "dialCode": "+968",
+    "map": "https://goo.gl/maps/L2BoXoAwDDwWecnw5",
+    "currencies": [
+      {
+        "code": "OMR",
+        "name": "Omani rial",
+        "symbol": "ر.ع."
+      }
+    ]
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "code": "PM",
+    "flag": "https://flagcdn.com/pm.svg",
+    "dialCode": "+508",
+    "map": "https://goo.gl/maps/bUM8Yc8pA8ghyhmt6",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Macau",
+    "code": "MO",
+    "flag": "https://flagcdn.com/mo.svg",
+    "dialCode": "+853",
+    "map": "https://goo.gl/maps/whymRdk3dZFfAAs4A",
+    "currencies": [
+      {
+        "code": "MOP",
+        "name": "Macanese pataca",
+        "symbol": "P"
+      }
+    ]
+  },
+  {
+    "name": "San Marino",
+    "code": "SM",
+    "flag": "https://flagcdn.com/sm.svg",
+    "dialCode": "+378",
+    "map": "https://goo.gl/maps/rxCVJjm8dVY93RPY8",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Lesotho",
+    "code": "LS",
+    "flag": "https://flagcdn.com/ls.svg",
+    "dialCode": "+266",
+    "map": "https://goo.gl/maps/H8gJi5mL4Cmd1SF28",
+    "currencies": [
+      {
+        "code": "LSL",
+        "name": "Lesotho loti",
+        "symbol": "L"
+      },
+      {
+        "code": "ZAR",
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    ]
+  },
+  {
+    "name": "Marshall Islands",
+    "code": "MH",
+    "flag": "https://flagcdn.com/mh.svg",
+    "dialCode": "+692",
+    "map": "https://goo.gl/maps/A4xLi1XvcX88gi3W8",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Sint Maarten",
+    "code": "SX",
+    "flag": "https://flagcdn.com/sx.svg",
+    "dialCode": "+1721",
+    "map": "https://goo.gl/maps/DjvcESy1a1oGEZuNA",
+    "currencies": [
+      {
+        "code": "ANG",
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    ]
+  },
+  {
+    "name": "Iceland",
+    "code": "IS",
+    "flag": "https://flagcdn.com/is.svg",
+    "dialCode": "+354",
+    "map": "https://goo.gl/maps/WxFWSQuc3oamNxoE6",
+    "currencies": [
+      {
+        "code": "ISK",
+        "name": "Icelandic króna",
+        "symbol": "kr"
+      }
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "code": "LU",
+    "flag": "https://flagcdn.com/lu.svg",
+    "dialCode": "+352",
+    "map": "https://goo.gl/maps/L6b2AgndgHprt2Ko9",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Argentina",
+    "code": "AR",
+    "flag": "https://flagcdn.com/ar.svg",
+    "dialCode": "+54",
+    "map": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
+    "currencies": [
+      {
+        "code": "ARS",
+        "name": "Argentine peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "code": "TC",
+    "flag": "https://flagcdn.com/tc.svg",
+    "dialCode": "+1649",
+    "map": "https://goo.gl/maps/R8VUDQfwZiFtvmyn8",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Nauru",
+    "code": "NR",
+    "flag": "https://flagcdn.com/nr.svg",
+    "dialCode": "+674",
+    "map": "https://goo.gl/maps/kyAGw6XEJgjSMsTK7",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "code": "CC",
+    "flag": "https://flagcdn.com/cc.svg",
+    "dialCode": "+61",
+    "map": "https://goo.gl/maps/3eCdKVpVfMcZyKcK6",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Western Sahara",
+    "code": "EH",
+    "flag": "https://flagcdn.com/eh.svg",
+    "dialCode": "+2125288",
+    "map": "https://goo.gl/maps/7nU3mB69vP6zQp7A8",
+    "currencies": [
+      {
+        "code": "DZD",
+        "name": "Algerian dinar",
+        "symbol": "دج"
+      },
+      {
+        "code": "MAD",
+        "name": "Moroccan dirham",
+        "symbol": "DH"
+      },
+      {
+        "code": "MRU",
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    ]
+  },
+  {
+    "name": "Dominica",
+    "code": "DM",
+    "flag": "https://flagcdn.com/dm.svg",
+    "dialCode": "+1767",
+    "map": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "code": "CR",
+    "flag": "https://flagcdn.com/cr.svg",
+    "dialCode": "+506",
+    "map": "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
+    "currencies": [
+      {
+        "code": "CRC",
+        "name": "Costa Rican colón",
+        "symbol": "₡"
+      }
+    ]
+  },
+  {
+    "name": "Australia",
+    "code": "AU",
+    "flag": "https://flagcdn.com/au.svg",
+    "dialCode": "+61",
+    "map": "https://goo.gl/maps/DcjaDa7UbhnZTndH6",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Thailand",
+    "code": "TH",
+    "flag": "https://flagcdn.com/th.svg",
+    "dialCode": "+66",
+    "map": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
+    "currencies": [
+      {
+        "code": "THB",
+        "name": "Thai baht",
+        "symbol": "฿"
+      }
+    ]
+  },
+  {
+    "name": "Haiti",
+    "code": "HT",
+    "flag": "https://flagcdn.com/ht.svg",
+    "dialCode": "+509",
+    "map": "https://goo.gl/maps/9o13xtjuUdqFnHbn9",
+    "currencies": [
+      {
+        "code": "HTG",
+        "name": "Haitian gourde",
+        "symbol": "G"
+      }
+    ]
+  },
+  {
+    "name": "Tuvalu",
+    "code": "TV",
+    "flag": "https://flagcdn.com/tv.svg",
+    "dialCode": "+688",
+    "map": "https://goo.gl/maps/LbuUxtkgm1dfN1Pn6",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "TVD",
+        "name": "Tuvaluan dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Honduras",
+    "code": "HN",
+    "flag": "https://flagcdn.com/hn.svg",
+    "dialCode": "+504",
+    "map": "https://goo.gl/maps/BbeJK8Sk2VkMHbdF8",
+    "currencies": [
+      {
+        "code": "HNL",
+        "name": "Honduran lempira",
+        "symbol": "L"
+      }
+    ]
+  },
+  {
+    "name": "Equatorial Guinea",
+    "code": "GQ",
+    "flag": "https://flagcdn.com/gq.svg",
+    "dialCode": "+240",
+    "map": "https://goo.gl/maps/ucWfFd8aW1FbGMva9",
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Saint Lucia",
+    "code": "LC",
+    "flag": "https://flagcdn.com/lc.svg",
+    "dialCode": "+1758",
+    "map": "https://goo.gl/maps/4HhJ2jkPdSL9BPRcA",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "French Polynesia",
+    "code": "PF",
+    "flag": "https://flagcdn.com/pf.svg",
+    "dialCode": "+689",
+    "map": "https://goo.gl/maps/xgg6BQTRyeQg4e1m6",
+    "currencies": [
+      {
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "₣"
+      }
+    ]
+  },
+  {
+    "name": "Belarus",
+    "code": "BY",
+    "flag": "https://flagcdn.com/by.svg",
+    "dialCode": "+375",
+    "map": "https://goo.gl/maps/PJUDU3EBPSszCQcu6",
+    "currencies": [
+      {
+        "code": "BYN",
+        "name": "Belarusian ruble",
+        "symbol": "Br"
+      }
+    ]
+  },
+  {
+    "name": "Latvia",
+    "code": "LV",
+    "flag": "https://flagcdn.com/lv.svg",
+    "dialCode": "+371",
+    "map": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Palau",
+    "code": "PW",
+    "flag": "https://flagcdn.com/pw.svg",
+    "dialCode": "+680",
+    "map": "https://goo.gl/maps/MVasQBbUkQP7qQDR9",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Guadeloupe",
+    "code": "GP",
+    "flag": "https://flagcdn.com/gp.svg",
+    "dialCode": "+590",
+    "map": "https://goo.gl/maps/Dy9R2EufJtoWm8UN9",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Philippines",
+    "code": "PH",
+    "flag": "https://flagcdn.com/ph.svg",
+    "dialCode": "+63",
+    "map": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
+    "currencies": [
+      {
+        "code": "PHP",
+        "name": "Philippine peso",
+        "symbol": "₱"
+      }
+    ]
+  },
+  {
+    "name": "Gibraltar",
+    "code": "GI",
+    "flag": "https://flagcdn.com/gi.svg",
+    "dialCode": "+350",
+    "map": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
+    "currencies": [
+      {
+        "code": "GIP",
+        "name": "Gibraltar pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "name": "Denmark",
+    "code": "DK",
+    "flag": "https://flagcdn.com/dk.svg",
+    "dialCode": "+45",
+    "map": "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
+    "currencies": [
+      {
+        "code": "DKK",
+        "name": "Danish krone",
+        "symbol": "kr"
+      }
+    ]
+  },
+  {
+    "name": "Cameroon",
+    "code": "CM",
+    "flag": "https://flagcdn.com/cm.svg",
+    "dialCode": "+237",
+    "map": "https://goo.gl/maps/JqiipHgFboG3rBJh9",
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Guinea",
+    "code": "GN",
+    "flag": "https://flagcdn.com/gn.svg",
+    "dialCode": "+224",
+    "map": "https://goo.gl/maps/8J5oM5sA4Ayr1ZYGA",
+    "currencies": [
+      {
+        "code": "GNF",
+        "name": "Guinean franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "code": "BH",
+    "flag": "https://flagcdn.com/bh.svg",
+    "dialCode": "+973",
+    "map": "https://goo.gl/maps/5Zue99Zc6vFBHxzJ7",
+    "currencies": [
+      {
+        "code": "BHD",
+        "name": "Bahraini dinar",
+        "symbol": ".د.ب"
+      }
+    ]
+  },
+  {
+    "name": "Suriname",
+    "code": "SR",
+    "flag": "https://flagcdn.com/sr.svg",
+    "dialCode": "+597",
+    "map": "https://goo.gl/maps/iy7TuQLSi4qgoBoG7",
+    "currencies": [
+      {
+        "code": "SRD",
+        "name": "Surinamese dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "DR Congo",
+    "code": "CD",
+    "flag": "https://flagcdn.com/cd.svg",
+    "dialCode": "+243",
+    "map": "https://goo.gl/maps/KfhNVn6VqdZXWu8n9",
+    "currencies": [
+      {
+        "code": "CDF",
+        "name": "Congolese franc",
+        "symbol": "FC"
+      }
+    ]
+  },
+  {
+    "name": "Somalia",
+    "code": "SO",
+    "flag": "https://flagcdn.com/so.svg",
+    "dialCode": "+252",
+    "map": "https://goo.gl/maps/8of8q7D1a8p7R6Fc9",
+    "currencies": [
+      {
+        "code": "SOS",
+        "name": "Somali shilling",
+        "symbol": "Sh"
+      }
+    ]
+  },
+  {
+    "name": "Czechia",
+    "code": "CZ",
+    "flag": "https://flagcdn.com/cz.svg",
+    "dialCode": "+420",
+    "map": "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
+    "currencies": [
+      {
+        "code": "CZK",
+        "name": "Czech koruna",
+        "symbol": "Kč"
+      }
+    ]
+  },
+  {
+    "name": "New Caledonia",
+    "code": "NC",
+    "flag": "https://flagcdn.com/nc.svg",
+    "dialCode": "+687",
+    "map": "https://goo.gl/maps/cBhtCeMdob4U7FRU9",
+    "currencies": [
+      {
+        "code": "XPF",
+        "name": "CFP franc",
+        "symbol": "₣"
+      }
+    ]
+  },
+  {
+    "name": "Vanuatu",
+    "code": "VU",
+    "flag": "https://flagcdn.com/vu.svg",
+    "dialCode": "+678",
+    "map": "https://goo.gl/maps/hwAjehcT7VfvP5zJ8",
+    "currencies": [
+      {
+        "code": "VUV",
+        "name": "Vanuatu vatu",
+        "symbol": "Vt"
+      }
+    ]
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "code": "SH",
+    "flag": "https://flagcdn.com/sh.svg",
+    "dialCode": "+290",
+    "map": "https://goo.gl/maps/iv4VxnPzHkjLCJuc6",
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "Pound sterling",
+        "symbol": "£"
+      },
+      {
+        "code": "SHP",
+        "name": "Saint Helena pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "name": "Togo",
+    "code": "TG",
+    "flag": "https://flagcdn.com/tg.svg",
+    "dialCode": "+228",
+    "map": "https://goo.gl/maps/jzAa9feXuXPrKVb89",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "British Virgin Islands",
+    "code": "VG",
+    "flag": "https://flagcdn.com/vg.svg",
+    "dialCode": "+1284",
+    "map": "https://goo.gl/maps/49C9cSesNVAR9DQk8",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Kenya",
+    "code": "KE",
+    "flag": "https://flagcdn.com/ke.svg",
+    "dialCode": "+254",
+    "map": "https://goo.gl/maps/Ni9M7wcCxf8bJHLX8",
+    "currencies": [
+      {
+        "code": "KES",
+        "name": "Kenyan shilling",
+        "symbol": "Sh"
+      }
+    ]
+  },
+  {
+    "name": "Niue",
+    "code": "NU",
+    "flag": "https://flagcdn.com/nu.svg",
+    "dialCode": "+683",
+    "map": "https://goo.gl/maps/xFgdzs3E55Rk1y8P9",
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "code": "HM",
+    "flag": "https://flagcdn.com/hm.svg",
+    "dialCode": null,
+    "map": "https://goo.gl/maps/k5FBAiVaVyozuYeA7",
+    "currencies": []
+  },
+  {
+    "name": "Rwanda",
+    "code": "RW",
+    "flag": "https://flagcdn.com/rw.svg",
+    "dialCode": "+250",
+    "map": "https://goo.gl/maps/j5xb5r7CLqjYbyP86",
+    "currencies": [
+      {
+        "code": "RWF",
+        "name": "Rwandan franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Estonia",
+    "code": "EE",
+    "flag": "https://flagcdn.com/ee.svg",
+    "dialCode": "+372",
+    "map": "https://goo.gl/maps/6SsynwGUodL1sDvq8",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Romania",
+    "code": "RO",
+    "flag": "https://flagcdn.com/ro.svg",
+    "dialCode": "+40",
+    "map": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
+    "currencies": [
+      {
+        "code": "RON",
+        "name": "Romanian leu",
+        "symbol": "lei"
+      }
+    ]
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "code": "TT",
+    "flag": "https://flagcdn.com/tt.svg",
+    "dialCode": "+1868",
+    "map": "https://goo.gl/maps/NrRfDEWoG8FGZqWY7",
+    "currencies": [
+      {
+        "code": "TTD",
+        "name": "Trinidad and Tobago dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Guyana",
+    "code": "GY",
+    "flag": "https://flagcdn.com/gy.svg",
+    "dialCode": "+592",
+    "map": "https://goo.gl/maps/DFsme2xEeugUAsCx5",
+    "currencies": [
+      {
+        "code": "GYD",
+        "name": "Guyanese dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Timor-Leste",
+    "code": "TL",
+    "flag": "https://flagcdn.com/tl.svg",
+    "dialCode": "+670",
+    "map": "https://goo.gl/maps/sFqBC9zjgUXPR1iTA",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "code": "VN",
+    "flag": "https://flagcdn.com/vn.svg",
+    "dialCode": "+84",
+    "map": "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
+    "currencies": [
+      {
+        "code": "VND",
+        "name": "Vietnamese đồng",
+        "symbol": "₫"
+      }
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "code": "UY",
+    "flag": "https://flagcdn.com/uy.svg",
+    "dialCode": "+598",
+    "map": "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
+    "currencies": [
+      {
+        "code": "UYU",
+        "name": "Uruguayan peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Vatican City",
+    "code": "VA",
+    "flag": "https://flagcdn.com/va.svg",
+    "dialCode": "+3906698",
+    "map": "https://goo.gl/maps/DTKvw5Bd1QZaDZmE8",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Hong Kong",
+    "code": "HK",
+    "flag": "https://flagcdn.com/hk.svg",
+    "dialCode": "+852",
+    "map": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
+    "currencies": [
+      {
+        "code": "HKD",
+        "name": "Hong Kong dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Austria",
+    "code": "AT",
+    "flag": "https://flagcdn.com/at.svg",
+    "dialCode": "+43",
+    "map": "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "code": "AG",
+    "flag": "https://flagcdn.com/ag.svg",
+    "dialCode": "+1268",
+    "map": "https://goo.gl/maps/fnye4wGJ1RzC9jpX9",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "code": "TM",
+    "flag": "https://flagcdn.com/tm.svg",
+    "dialCode": "+993",
+    "map": "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
+    "currencies": [
+      {
+        "code": "TMT",
+        "name": "Turkmenistan manat",
+        "symbol": "m"
+      }
+    ]
+  },
+  {
+    "name": "Mozambique",
+    "code": "MZ",
+    "flag": "https://flagcdn.com/mz.svg",
+    "dialCode": "+258",
+    "map": "https://goo.gl/maps/xCLcY9fzU6x4Pueu5",
+    "currencies": [
+      {
+        "code": "MZN",
+        "name": "Mozambican metical",
+        "symbol": "MT"
+      }
+    ]
+  },
+  {
+    "name": "Panama",
+    "code": "PA",
+    "flag": "https://flagcdn.com/pa.svg",
+    "dialCode": "+507",
+    "map": "https://goo.gl/maps/sEN7sKqeawa5oPNLA",
+    "currencies": [
+      {
+        "code": "PAB",
+        "name": "Panamanian balboa",
+        "symbol": "B/."
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Micronesia",
+    "code": "FM",
+    "flag": "https://flagcdn.com/fm.svg",
+    "dialCode": "+691",
+    "map": "https://goo.gl/maps/LLcnofC5LxZsJXTo8",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Ireland",
+    "code": "IE",
+    "flag": "https://flagcdn.com/ie.svg",
+    "dialCode": "+353",
+    "map": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Curaçao",
+    "code": "CW",
+    "flag": "https://flagcdn.com/cw.svg",
+    "dialCode": "+599",
+    "map": "https://goo.gl/maps/9D3hTeA3qKaRT7S16",
+    "currencies": [
+      {
+        "code": "ANG",
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    ]
+  },
+  {
+    "name": "French Guiana",
+    "code": "GF",
+    "flag": "https://flagcdn.com/gf.svg",
+    "dialCode": "+594",
+    "map": "https://goo.gl/maps/NJawFwMzG7YtCrVP7",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Norway",
+    "code": "NO",
+    "flag": "https://flagcdn.com/no.svg",
+    "dialCode": "+47",
+    "map": "https://goo.gl/maps/htWRrphA7vNgQNdSA",
+    "currencies": [
+      {
+        "code": "NOK",
+        "name": "Norwegian krone",
+        "symbol": "kr"
+      }
+    ]
+  },
+  {
+    "name": "Åland Islands",
+    "code": "AX",
+    "flag": "https://flagcdn.com/ax.svg",
+    "dialCode": "+35818",
+    "map": "https://goo.gl/maps/ewFb3vYsfUmVCoSb8",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Central African Republic",
+    "code": "CF",
+    "flag": "https://flagcdn.com/cf.svg",
+    "dialCode": "+236",
+    "map": "https://goo.gl/maps/51V8dsi2rGYC9n3c9",
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "BF",
+    "flag": "https://flagcdn.com/bf.svg",
+    "dialCode": "+226",
+    "map": "https://goo.gl/maps/rKRmpcMbFher2ozb7",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Eritrea",
+    "code": "ER",
+    "flag": "https://flagcdn.com/er.svg",
+    "dialCode": "+291",
+    "map": "https://goo.gl/maps/HRyqUpnPwwG6jY5j6",
+    "currencies": [
+      {
+        "code": "ERN",
+        "name": "Eritrean nakfa",
+        "symbol": "Nfk"
+      }
+    ]
+  },
+  {
+    "name": "Tanzania",
+    "code": "TZ",
+    "flag": "https://flagcdn.com/tz.svg",
+    "dialCode": "+255",
+    "map": "https://goo.gl/maps/NWYMqZYXte4zGZ2Q8",
+    "currencies": [
+      {
+        "code": "TZS",
+        "name": "Tanzanian shilling",
+        "symbol": "Sh"
+      }
+    ]
+  },
+  {
+    "name": "South Korea",
+    "code": "KR",
+    "flag": "https://flagcdn.com/kr.svg",
+    "dialCode": "+82",
+    "map": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
+    "currencies": [
+      {
+        "code": "KRW",
+        "name": "South Korean won",
+        "symbol": "₩"
+      }
+    ]
+  },
+  {
+    "name": "Jordan",
+    "code": "JO",
+    "flag": "https://flagcdn.com/jo.svg",
+    "dialCode": "+962",
+    "map": "https://goo.gl/maps/ko1dzSDKg8Gsi9A98",
+    "currencies": [
+      {
+        "code": "JOD",
+        "name": "Jordanian dinar",
+        "symbol": "د.ا"
+      }
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "code": "MR",
+    "flag": "https://flagcdn.com/mr.svg",
+    "dialCode": "+222",
+    "map": "https://goo.gl/maps/im2MmQ5jFjzxWBks5",
+    "currencies": [
+      {
+        "code": "MRU",
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "code": "LT",
+    "flag": "https://flagcdn.com/lt.svg",
+    "dialCode": "+370",
+    "map": "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "code": "UM",
+    "flag": "https://flagcdn.com/um.svg",
+    "dialCode": "+268",
+    "map": "https://goo.gl/maps/hZKnrzgeK69dDyPF8",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "code": "SK",
+    "flag": "https://flagcdn.com/sk.svg",
+    "dialCode": "+421",
+    "map": "https://goo.gl/maps/uNSH2wW4bLoZVYJj7",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Angola",
+    "code": "AO",
+    "flag": "https://flagcdn.com/ao.svg",
+    "dialCode": "+244",
+    "map": "https://goo.gl/maps/q42Qbf1BmQL3fuZg9",
+    "currencies": [
+      {
+        "code": "AOA",
+        "name": "Angolan kwanza",
+        "symbol": "Kz"
+      }
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "code": "KZ",
+    "flag": "https://flagcdn.com/kz.svg",
+    "dialCode": "+76",
+    "map": "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
+    "currencies": [
+      {
+        "code": "KZT",
+        "name": "Kazakhstani tenge",
+        "symbol": "₸"
+      }
+    ]
+  },
+  {
+    "name": "Moldova",
+    "code": "MD",
+    "flag": "https://flagcdn.com/md.svg",
+    "dialCode": "+373",
+    "map": "https://goo.gl/maps/JjmyUuULujnDeFPf7",
+    "currencies": [
+      {
+        "code": "MDL",
+        "name": "Moldovan leu",
+        "symbol": "L"
+      }
+    ]
+  },
+  {
+    "name": "Mali",
+    "code": "ML",
+    "flag": "https://flagcdn.com/ml.svg",
+    "dialCode": "+223",
+    "map": "https://goo.gl/maps/u9mYJkCB19wyuzh27",
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Falkland Islands",
+    "code": "FK",
+    "flag": "https://flagcdn.com/fk.svg",
+    "dialCode": "+500",
+    "map": "https://goo.gl/maps/TZH1x7AGanQKifNk7",
+    "currencies": [
+      {
+        "code": "FKP",
+        "name": "Falkland Islands pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "name": "Armenia",
+    "code": "AM",
+    "flag": "https://flagcdn.com/am.svg",
+    "dialCode": "+374",
+    "map": "https://goo.gl/maps/azWUtK9bUQYEyccbA",
+    "currencies": [
+      {
+        "code": "AMD",
+        "name": "Armenian dram",
+        "symbol": "֏"
+      }
+    ]
+  },
+  {
+    "name": "Samoa",
+    "code": "WS",
+    "flag": "https://flagcdn.com/ws.svg",
+    "dialCode": "+685",
+    "map": "https://goo.gl/maps/CFC9fEFP9cfkYUBF9",
+    "currencies": [
+      {
+        "code": "WST",
+        "name": "Samoan tālā",
+        "symbol": "T"
+      }
+    ]
+  },
+  {
+    "name": "Jersey",
+    "code": "JE",
+    "flag": "https://flagcdn.com/je.svg",
+    "dialCode": "+44",
+    "map": "https://goo.gl/maps/rXG8GZZtsqK92kTCA",
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "British pound",
+        "symbol": "£"
+      },
+      {
+        "code": "JEP",
+        "name": "Jersey pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "name": "Japan",
+    "code": "JP",
+    "flag": "https://flagcdn.com/jp.svg",
+    "dialCode": "+81",
+    "map": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
+    "currencies": [
+      {
+        "code": "JPY",
+        "name": "Japanese yen",
+        "symbol": "¥"
+      }
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "code": "BO",
+    "flag": "https://flagcdn.com/bo.svg",
+    "dialCode": "+591",
+    "map": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
+    "currencies": [
+      {
+        "code": "BOB",
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      }
+    ]
+  },
+  {
+    "name": "Chile",
+    "code": "CL",
+    "flag": "https://flagcdn.com/cl.svg",
+    "dialCode": "+56",
+    "map": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
+    "currencies": [
+      {
+        "code": "CLP",
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "United States",
+    "code": "US",
+    "flag": "https://flagcdn.com/us.svg",
+    "dialCode": "+1201",
+    "map": "https://goo.gl/maps/e8M246zY4BSjkjAv6",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "code": "VC",
+    "flag": "https://flagcdn.com/vc.svg",
+    "dialCode": "+1784",
+    "map": "https://goo.gl/maps/wMbnMqjG37FMnrwf7",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Bermuda",
+    "code": "BM",
+    "flag": "https://flagcdn.com/bm.svg",
+    "dialCode": "+1441",
+    "map": "https://goo.gl/maps/NLsRGNjTzDghTtAJA",
+    "currencies": [
+      {
+        "code": "BMD",
+        "name": "Bermudian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Seychelles",
+    "code": "SC",
+    "flag": "https://flagcdn.com/sc.svg",
+    "dialCode": "+248",
+    "map": "https://goo.gl/maps/aqCcy2TKh5TV5MAX8",
+    "currencies": [
+      {
+        "code": "SCR",
+        "name": "Seychellois rupee",
+        "symbol": "₨"
+      }
+    ]
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "code": "IO",
+    "flag": "https://flagcdn.com/io.svg",
+    "dialCode": "+246",
+    "map": "https://goo.gl/maps/bheNucgekVEYozoi6",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "code": "GT",
+    "flag": "https://flagcdn.com/gt.svg",
+    "dialCode": "+502",
+    "map": "https://goo.gl/maps/JoRAbem4Hxb9FYbVA",
+    "currencies": [
+      {
+        "code": "GTQ",
+        "name": "Guatemalan quetzal",
+        "symbol": "Q"
+      }
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "code": "EC",
+    "flag": "https://flagcdn.com/ec.svg",
+    "dialCode": "+593",
+    "map": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Martinique",
+    "code": "MQ",
+    "flag": "https://flagcdn.com/mq.svg",
+    "dialCode": "+596",
+    "map": "https://goo.gl/maps/87ER7sDAFU7JjcvR6",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Tajikistan",
+    "code": "TJ",
+    "flag": "https://flagcdn.com/tj.svg",
+    "dialCode": "+992",
+    "map": "https://goo.gl/maps/8rQgW88jEXijhVb58",
+    "currencies": [
+      {
+        "code": "TJS",
+        "name": "Tajikistani somoni",
+        "symbol": "ЅМ"
+      }
+    ]
+  },
+  {
+    "name": "Malta",
+    "code": "MT",
+    "flag": "https://flagcdn.com/mt.svg",
+    "dialCode": "+356",
+    "map": "https://goo.gl/maps/skXCqguxDxxEKVk47",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Gambia",
+    "code": "GM",
+    "flag": "https://flagcdn.com/gm.svg",
+    "dialCode": "+220",
+    "map": "https://goo.gl/maps/bbGBCxxtfD2A9Z4m6",
+    "currencies": [
+      {
+        "code": "GMD",
+        "name": "dalasi",
+        "symbol": "D"
+      }
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "code": "NG",
+    "flag": "https://flagcdn.com/ng.svg",
+    "dialCode": "+234",
+    "map": "https://goo.gl/maps/LTn417qWwBPFszuV9",
+    "currencies": [
+      {
+        "code": "NGN",
+        "name": "Nigerian naira",
+        "symbol": "₦"
+      }
+    ]
+  },
+  {
+    "name": "Bahamas",
+    "code": "BS",
+    "flag": "https://flagcdn.com/bs.svg",
+    "dialCode": "+1242",
+    "map": "https://goo.gl/maps/1YzRs1BZrG8p8pmVA",
+    "currencies": [
+      {
+        "code": "BSD",
+        "name": "Bahamian dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Kosovo",
+    "code": "XK",
+    "flag": "https://flagcdn.com/xk.svg",
+    "dialCode": "+383",
+    "map": "https://goo.gl/maps/CSC4Yc8SWPgburuD9",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "code": "KW",
+    "flag": "https://flagcdn.com/kw.svg",
+    "dialCode": "+965",
+    "map": "https://goo.gl/maps/aqr3aNQjS1BAvksJ7",
+    "currencies": [
+      {
+        "code": "KWD",
+        "name": "Kuwaiti dinar",
+        "symbol": "د.ك"
+      }
+    ]
+  },
+  {
+    "name": "Maldives",
+    "code": "MV",
+    "flag": "https://flagcdn.com/mv.svg",
+    "dialCode": "+960",
+    "map": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
+    "currencies": [
+      {
+        "code": "MVR",
+        "name": "Maldivian rufiyaa",
+        "symbol": ".ރ"
+      }
+    ]
+  },
+  {
+    "name": "South Sudan",
+    "code": "SS",
+    "flag": "https://flagcdn.com/ss.svg",
+    "dialCode": "+211",
+    "map": "https://goo.gl/maps/Zm1AYCXb9HSNF1P27",
+    "currencies": [
+      {
+        "code": "SSP",
+        "name": "South Sudanese pound",
+        "symbol": "£"
+      }
+    ]
+  },
+  {
+    "name": "Iran",
+    "code": "IR",
+    "flag": "https://flagcdn.com/ir.svg",
+    "dialCode": "+98",
+    "map": "https://goo.gl/maps/dMgEGuacBPGYQnjY7",
+    "currencies": [
+      {
+        "code": "IRR",
+        "name": "Iranian rial",
+        "symbol": "﷼"
+      }
+    ]
+  },
+  {
+    "name": "Albania",
+    "code": "AL",
+    "flag": "https://flagcdn.com/al.svg",
+    "dialCode": "+355",
+    "map": "https://goo.gl/maps/BzN9cTuj68ZA8SyZ8",
+    "currencies": [
+      {
+        "code": "ALL",
+        "name": "Albanian lek",
+        "symbol": "L"
+      }
+    ]
+  },
+  {
+    "name": "Brazil",
+    "code": "BR",
+    "flag": "https://flagcdn.com/br.svg",
+    "dialCode": "+55",
+    "map": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
+    "currencies": [
+      {
+        "code": "BRL",
+        "name": "Brazilian real",
+        "symbol": "R$"
+      }
+    ]
+  },
+  {
+    "name": "Serbia",
+    "code": "RS",
+    "flag": "https://flagcdn.com/rs.svg",
+    "dialCode": "+381",
+    "map": "https://goo.gl/maps/2Aqof7aV2Naq8YEK8",
+    "currencies": [
+      {
+        "code": "RSD",
+        "name": "Serbian dinar",
+        "symbol": "дин."
+      }
+    ]
+  },
+  {
+    "name": "Belize",
+    "code": "BZ",
+    "flag": "https://flagcdn.com/bz.svg",
+    "dialCode": "+501",
+    "map": "https://goo.gl/maps/jdCccpdLodm1uTmo9",
+    "currencies": [
+      {
+        "code": "BZD",
+        "name": "Belize dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Myanmar",
+    "code": "MM",
+    "flag": "https://flagcdn.com/mm.svg",
+    "dialCode": "+95",
+    "map": "https://goo.gl/maps/4jrZyJkDERUfHyp26",
+    "currencies": [
+      {
+        "code": "MMK",
+        "name": "Burmese kyat",
+        "symbol": "Ks"
+      }
+    ]
+  },
+  {
+    "name": "Bhutan",
+    "code": "BT",
+    "flag": "https://flagcdn.com/bt.svg",
+    "dialCode": "+975",
+    "map": "https://goo.gl/maps/VEfXXBftTFLUpNgp8",
+    "currencies": [
+      {
+        "code": "BTN",
+        "name": "Bhutanese ngultrum",
+        "symbol": "Nu."
+      },
+      {
+        "code": "INR",
+        "name": "Indian rupee",
+        "symbol": "₹"
+      }
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "code": "VE",
+    "flag": "https://flagcdn.com/ve.svg",
+    "dialCode": "+58",
+    "map": "https://goo.gl/maps/KLCwDN8sec7z2kse9",
+    "currencies": [
+      {
+        "code": "VES",
+        "name": "Venezuelan bolívar soberano",
+        "symbol": "Bs.S."
+      }
+    ]
+  },
+  {
+    "name": "Liberia",
+    "code": "LR",
+    "flag": "https://flagcdn.com/lr.svg",
+    "dialCode": "+231",
+    "map": "https://goo.gl/maps/4VsHsc2oeGeRL3wg6",
+    "currencies": [
+      {
+        "code": "LRD",
+        "name": "Liberian dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "code": "JM",
+    "flag": "https://flagcdn.com/jm.svg",
+    "dialCode": "+1876",
+    "map": "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
+    "currencies": [
+      {
+        "code": "JMD",
+        "name": "Jamaican dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Poland",
+    "code": "PL",
+    "flag": "https://flagcdn.com/pl.svg",
+    "dialCode": "+48",
+    "map": "https://goo.gl/maps/gY9Xw4Sf4415P4949",
+    "currencies": [
+      {
+        "code": "PLN",
+        "name": "Polish złoty",
+        "symbol": "zł"
+      }
+    ]
+  },
+  {
+    "name": "Cayman Islands",
+    "code": "KY",
+    "flag": "https://flagcdn.com/ky.svg",
+    "dialCode": "+1345",
+    "map": "https://goo.gl/maps/P3ZVXX3LH63t91hL8",
+    "currencies": [
+      {
+        "code": "KYD",
+        "name": "Cayman Islands dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Brunei",
+    "code": "BN",
+    "flag": "https://flagcdn.com/bn.svg",
+    "dialCode": "+673",
+    "map": "https://goo.gl/maps/4jb4CqBXhr8vNh579",
+    "currencies": [
+      {
+        "code": "BND",
+        "name": "Brunei dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "SGD",
+        "name": "Singapore dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Comoros",
+    "code": "KM",
+    "flag": "https://flagcdn.com/km.svg",
+    "dialCode": "+269",
+    "map": "https://goo.gl/maps/eas4GP28C1GyStnu6",
+    "currencies": [
+      {
+        "code": "KMF",
+        "name": "Comorian franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Guam",
+    "code": "GU",
+    "flag": "https://flagcdn.com/gu.svg",
+    "dialCode": "+1671",
+    "map": "https://goo.gl/maps/Xfnq2i279b18cH3C9",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Tonga",
+    "code": "TO",
+    "flag": "https://flagcdn.com/to.svg",
+    "dialCode": "+676",
+    "map": "https://goo.gl/maps/p5YALBY2QdEzswRo7",
+    "currencies": [
+      {
+        "code": "TOP",
+        "name": "Tongan paʻanga",
+        "symbol": "T$"
+      }
+    ]
+  },
+  {
+    "name": "Kiribati",
+    "code": "KI",
+    "flag": "https://flagcdn.com/ki.svg",
+    "dialCode": "+686",
+    "map": "https://goo.gl/maps/NBfYvrndW4skAimw9",
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Australian dollar",
+        "symbol": "$"
+      },
+      {
+        "code": "KID",
+        "name": "Kiribati dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Ghana",
+    "code": "GH",
+    "flag": "https://flagcdn.com/gh.svg",
+    "dialCode": "+233",
+    "map": "https://goo.gl/maps/Avy5RSmdsXFBaiXq8",
+    "currencies": [
+      {
+        "code": "GHS",
+        "name": "Ghanaian cedi",
+        "symbol": "₵"
+      }
+    ]
+  },
+  {
+    "name": "Chad",
+    "code": "TD",
+    "flag": "https://flagcdn.com/td.svg",
+    "dialCode": "+235",
+    "map": "https://goo.gl/maps/ziUdAZ8skuNfx5Hx7",
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Zimbabwe",
+    "code": "ZW",
+    "flag": "https://flagcdn.com/zw.svg",
+    "dialCode": "+263",
+    "map": "https://goo.gl/maps/M26BqdwQctqxXS65A",
+    "currencies": [
+      {
+        "code": "ZWL",
+        "name": "Zimbabwean dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Saint Martin",
+    "code": "MF",
+    "flag": "https://flagcdn.com/mf.svg",
+    "dialCode": "+590",
+    "map": "https://goo.gl/maps/P9ho9QuJ9EAR28JEA",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "code": "MN",
+    "flag": "https://flagcdn.com/mn.svg",
+    "dialCode": "+976",
+    "map": "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
+    "currencies": [
+      {
+        "code": "MNT",
+        "name": "Mongolian tögrög",
+        "symbol": "₮"
+      }
+    ]
+  },
+  {
+    "name": "Portugal",
+    "code": "PT",
+    "flag": "https://flagcdn.com/pt.svg",
+    "dialCode": "+351",
+    "map": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "American Samoa",
+    "code": "AS",
+    "flag": "https://flagcdn.com/as.svg",
+    "dialCode": "+1684",
+    "map": "https://goo.gl/maps/Re9ePMjwP1sFCBFA6",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Republic of the Congo",
+    "code": "CG",
+    "flag": "https://flagcdn.com/cg.svg",
+    "dialCode": "+242",
+    "map": "https://goo.gl/maps/Phf5dDDKdfCtuBTb6",
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    ]
+  },
+  {
+    "name": "Belgium",
+    "code": "BE",
+    "flag": "https://flagcdn.com/be.svg",
+    "dialCode": "+32",
+    "map": "https://goo.gl/maps/UQQzat85TCtPRXAL8",
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ]
+  },
+  {
+    "name": "Israel",
+    "code": "IL",
+    "flag": "https://flagcdn.com/il.svg",
+    "dialCode": "+972",
+    "map": "https://goo.gl/maps/6UY1AH8XeafVwdC97",
+    "currencies": [
+      {
+        "code": "ILS",
+        "name": "Israeli new shekel",
+        "symbol": "₪"
+      }
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "code": "NZ",
+    "flag": "https://flagcdn.com/nz.svg",
+    "dialCode": "+64",
+    "map": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "New Zealand dollar",
+        "symbol": "$"
+      }
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "code": "NI",
+    "flag": "https://flagcdn.com/ni.svg",
+    "dialCode": "+505",
+    "map": "https://goo.gl/maps/P77LaEVkKJKXneRC6",
+    "currencies": [
+      {
+        "code": "NIO",
+        "name": "Nicaraguan córdoba",
+        "symbol": "C$"
+      }
+    ]
+  },
+  {
+    "name": "Anguilla",
+    "code": "AI",
+    "flag": "https://flagcdn.com/ai.svg",
+    "dialCode": "+1264",
+    "map": "https://goo.gl/maps/3KgLnEyN7amdno2p9",
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Eastern Caribbean dollar",
+        "symbol": "$"
+      }
+    ]
+  }
+]
