@@ -1,8 +1,9 @@
 const express = require('express');
+const cors = require('cors');
 const app = express();
 
 const countries = require('./countries/countries.json');
-
+app.use(cors());
 app.get('/countries', (req, res) => {
     res.json(countries);
 });
